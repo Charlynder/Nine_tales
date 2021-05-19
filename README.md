@@ -1,14 +1,7 @@
-# README
-## This is the README for your extension "kurama-IT-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Kurama IT
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Kurama IT is a color theme for VS Code!
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+> For now, Kurama IT is just a theme that im use for myself. I want to have a theme that i want to use.
 
-**Enjoy!**
-# Kurama-IT
+Kurama IT is a stylish new theme for VS Code.
