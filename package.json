@@ -1,8 +1,15 @@
 {
-    "name": "kurama-IT-theme",
+    "name": "kurama-it",
     "displayName": "Kurama IT",
-    "description": "A orange & black theme for vscode",
-    "version": "0.3.0",
+    "description": "A orange & black theme for vscode based on the nine tailed fox",
+    "version": "0.3.1",
+    "publisher": "ChuDeTok",
+    "license": "MIT",
+    "icon": "Kurama-IT_v3/Kurama_v3.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CasshChris/Kurama-IT.git"
+    },
     "keywords": [
         "themes",
         "Kurama-IT",
@@ -19,7 +26,6 @@
         "vscode": "^1.56.0"
     },
     "categories": [
-        "Color Themes",
         "Themes"
     ],
     "contributes": {
