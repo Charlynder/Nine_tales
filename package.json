@@ -1,12 +1,25 @@
 {
     "name": "kurama-IT-theme",
-    "displayName": "kurama-IT",
-    "description": "",
-    "version": "0.0.7",
+    "displayName": "Kurama IT",
+    "description": "A orange & black theme for vscode",
+    "version": "0.3.0",
+    "keywords": [
+        "themes",
+        "Kurama-IT",
+        "Kurama IT",
+        "the kurama",
+        "nine tails",
+        "Nine Tails",
+        "Naruto",
+        "dark themes",
+        "Orange",
+        "Baruto"
+    ],
     "engines": {
         "vscode": "^1.56.0"
     },
     "categories": [
+        "Color Themes",
         "Themes"
     ],
     "contributes": {

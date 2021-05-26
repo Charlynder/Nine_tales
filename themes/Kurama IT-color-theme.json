@@ -2,21 +2,48 @@
 	"name": "Kurama IT",
 	"type": "dark",
 	"colors": {
+		"list.activeSelectionBackground": "#ffa473b4",
+		"list.focusOutline": "#ee9362",
 		"activityBar.background": "#ee9362",
 		"editor.background": "#1b1d22",
 		"editor.foreground": "#82a7a7",
-		"activityBarBadge.background": "#ee9362",
+		"activityBarBadge.background": "#ffffff",
+		"activityBarBadge.foreground": "#1b1d22",
 		"activityBar.foreground": "#1b1d22",
-		"sideBarTitle.foreground": "#f5efef",
-		"progressBar.background": "#ff0000",
+		"progressBar.background": "#fffb00",
 		"editorGroupHeader.tabsBorder": "#1b1d22",
 		"editorGroupHeader.tabsBackground": "#1b1d22",
+		"sideBarTitle.foreground": "#f5efef",
 		"sideBar.foreground": "#f5efef",
 		"sideBar.background": "#1B1D22",
 		"tab.activeForeground": "#F8FFF8",
-		"tab.hoverBackground": "#4A5B68",
+		"tab.hoverBackground": "#46382d",
+		"tab.inactiveBackground": "#1B1D22",
 		"statusBar.background": "#ee9362",
-		"titleBar.activeBackground": "#1b1d22"
+		"titleBar.activeBackground": "#1b1d22",
+		"titleBar.activeForeground": "#f5efef",
+		"checkbox.background": "#f5efef",
+		"tab.activeBorder": "#EE9462",
+		"badge.foreground":"#f5efef",
+		"badge.background":"#EE9462",
+		"button.background":"#ee9362",
+		"button.border":"#d47d4d",
+		"button.hoverBackground": "#CC6733",
+		"statusBar.noFolderBackground":"#ee9362",
+		"editorWidget.foreground": "#f5efef",
+		"editorWidget.background": "#1B1D22",
+		"menu.background": "#1B1D22",
+		"menu.foreground": "#f5efef",
+		"keybindingLabel.background":"#ee9362",
+		"dropdown.background":"#17191d",
+		"pickerGroup.border": "#ee9362",
+		"quickInputList.focusBackground":"#ffa473b4",
+		"keybindingLabel.border":"#f5efef",
+		"keybindingLabel.bottomBorder": "#778845",
+		"keybindingLabel.foreground": "#f5efef",
+		"inputOption.activeBorder":"#7EF76E",
+		"input.foreground":"#f5efef",
+		"input.border":"#7EF76E"
 	},
 	"tokenColors": [
 		{
@@ -129,7 +156,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#fffb1d"
+				"foreground": "#FBE77F"
 			}
 		},
 		{
@@ -259,7 +286,16 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#92ea9e"
+			}
+		},
+		{
+			"name": "charset",
+			"scope": [
+				"text.html.derivative"
+			],
+			"settings": {
+				"foreground": "#f8f691",
 			}
 		},
 		{
@@ -374,7 +410,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ea9292"
+				"foreground": "#eae492"
 			}
 		},
 		{
