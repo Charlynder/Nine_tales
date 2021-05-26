@@ -39,11 +39,14 @@
 		"pickerGroup.border": "#ee9362",
 		"quickInputList.focusBackground":"#ffa473b4",
 		"keybindingLabel.border":"#f5efef",
-		"keybindingLabel.bottomBorder": "#778845",
+		"keybindingLabel.bottomBorder": "#dddcdc",
 		"keybindingLabel.foreground": "#f5efef",
-		"inputOption.activeBorder":"#7EF76E",
+		"inputOption.activeBorder":"#ee9362",
 		"input.foreground":"#f5efef",
-		"input.border":"#7EF76E"
+		"input.border":"#ee9362",
+		"dropdown.border":"#ee9362",
+		"editor.selectionBackground":"#F5EFEF66",
+		"foreground": "#FF8F51"
 	},
 	"tokenColors": [
 		{
