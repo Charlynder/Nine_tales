@@ -7,4 +7,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## v0.3.1 Alpha released
 
 Added to [VS Code Marketplace]("Marketplace.visualstudio.com")
-Added [Kurama IT icon](Kurama-IT_v3/Kurama_v3.png) to the extention
+Added [Kurama IT icon](images/Kurama-IT_v3/Kurama_v3.png) to the extention
+Added [MIT license](LICENSE.md)
+
+### v0.3.1 minor
+Added [images](images) Directory
+Added full [README](README.md)
