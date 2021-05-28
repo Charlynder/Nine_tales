@@ -5,7 +5,7 @@
     "version": "0.3.1",
     "publisher": "ChuDeTok",
     "license": "MIT",
-    "icon": "Kurama-IT_v3/Kurama_v3.png",
+    "icon": "images/Kurama-IT_v3/Kurama_v3.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/CasshChris/Kurama-IT.git"
@@ -20,7 +20,7 @@
         "Naruto",
         "dark themes",
         "Orange",
-        "Baruto"
+        "orange color themes"
     ],
     "engines": {
         "vscode": "^1.56.0"

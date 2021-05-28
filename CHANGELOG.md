@@ -4,6 +4,7 @@ All notable changes to the "kurama-IT-theme" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## v0.3.1 Alpha released
 
-- Initial release
+Added to [VS Code Marketplace]("Marketplace.visualstudio.com")
+Added [Kurama IT icon](Kurama-IT_v3/Kurama_v3.png) to the extention
